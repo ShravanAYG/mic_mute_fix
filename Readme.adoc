@@ -1,5 +1,5 @@
 = Fix Micmute led
-Fixes micmute led which is on by default on *Thinkpad E16 Gen 1* by using a SDDM Script.
+* Fixes micmute led which is on by default on *Thinkpad E16 Gen 1* by using a SDDM Script.
 
 = To do
 * [ ] Make this into a kernel module
